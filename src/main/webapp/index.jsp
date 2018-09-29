@@ -1,11 +1,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <meta content="text/html;charset=utf-8">
-    <title>正在跳转至登录页面...</title>
-    <meta http-equiv="refresh" content="0;url=http://gobang04.bzchao.com/login.html">
+    <title></title>
 </head>
 <body>
-正在跳转至登录页面...
+<a href="/login.do">请使用你的QQ账号登陆</a>
+<a href="/shuoshuoDemo.html">发表说说</a>
 </body>
 </html>
